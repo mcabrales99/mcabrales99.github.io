@@ -174,7 +174,7 @@ color: #FF687C;
 .video-container video.fillWidth {
     width: 100%;
 }
-@media (min-width: 400px) and (max-width: 767.99px) and (orientation: landscape) {
+@media (min-width: 400px) and (max-width: 767.99px) {
     /* For tablets: */
 h3.headline {
 font-size: 70px;
