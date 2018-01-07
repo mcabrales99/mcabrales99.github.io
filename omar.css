@@ -213,8 +213,8 @@ box-shadow: 0px 13px 48px 0px rgba(0,0,0,0.75);
 p.lowerPara {
 font-size: 23px;
 text-align: center;
-position: absolute;
-bottom: 60px;
+position: block;
+top: 400px;
 left: 0;
 right: 0;
 display: flex;
