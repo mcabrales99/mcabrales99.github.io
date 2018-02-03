@@ -160,13 +160,13 @@ color: #FF687C;
     bottom: 0;
     position: absolute;
 }
-.video-container .filter {
+/*.video-container .filter {
     z-index: 100;
     position: absolute;
     background: rgba(0, 0, 0, 0.2);
     width: 100%;
 }
-.video-container video {
+*/.video-container video {
     position: absolute;
     z-index: 0;
     bottom: 0;
@@ -224,5 +224,4 @@ font-family:'Quicksand';
 color: white;
 opacity: .7;
 background:rgba( 0, 0, 0, 0.66);
-}
 }
