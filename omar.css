@@ -117,6 +117,11 @@ p.contact   {
         height: 400px;
         width: 100%;
 }
+img.secslide{
+    height: 400px;
+    width: 500px;
+
+}
 .homepage-hero-module {
     border-right: none;
     border-left: none;
