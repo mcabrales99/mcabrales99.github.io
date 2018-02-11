@@ -156,6 +156,11 @@ align-items: center;
 justify-content: center;
 font-family: 'Pacifico', cursive;
 color: #FF687C;
+
+}
+img.secslide{
+    max-height:100%;
+    max-width: 100%;
 }
 #carouselExampleControls{
     height: 35%;
@@ -230,3 +235,4 @@ color: white;
 opacity: .7;
 background:rgba( 0, 0, 0, 0.66);
 }
+
